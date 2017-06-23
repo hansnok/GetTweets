@@ -1,10 +1,10 @@
 import Twitter from 'twitter'
 
 var client = new Twitter({
-  consumer_key: 'o2O0kMc9V4Oihw1whohiWyjUN',
-  consumer_secret: 'rZg3gyXP8MQiLSML9qWxDeisjmMQLKbw1eAEIWOIKVqTOQZbkv',
-  access_token_key: '727693974446735361-VIG0kaYmDnIDUScn8xJR3ASybRkRLij',
-  access_token_secret: '08Q5ItDJGFb4DD4bTXThsingOblG8WuQ72zjxYtYzuDnV'
+  consumer_key: 'MWCQx51Gd4d87wsJmzMXveO1Z',
+  consumer_secret: 'xhMBX0xTQUsHvYKormXWhOLjwqDmK6eo427fQCyopsquA82uhK',
+  access_token_key: '243491082-mllQ7fWb5LUhGR3nB59quxmMNBnbr0FCeSf8w5BI',
+  access_token_secret: 'FCHlpmEP5Mid3aV4f3iBgoZ9tpC9zv8RoSjFUsZewcOF8'
 })
 
 export default client
