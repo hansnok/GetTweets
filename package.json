@@ -1,0 +1,23 @@
+{
+  "name": "gettweets",
+  "version": "0.0.1",
+  "description": "Node app to get tweets from a set of keywords",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansnok/GetTweets.git"
+  },
+  "author": "Hans Jeria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansnok/GetTweets/issues"
+  },
+  "homepage": "https://github.com/hansnok/GetTweets#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "twit": "^2.2.9"
+  }
+}
